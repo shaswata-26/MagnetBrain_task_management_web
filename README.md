@@ -10,7 +10,7 @@ This project allows users to manage tasks with priority and due dates.
 - 📋 View tasks with pagination  
 - 🔍 Search and filter tasks  
 - 📡 Backend API with Express + MongoDB  
-- 🎨 Frontend built with React + Tailwind CSS  
+- 🎨 Frontend built with React + Tailwind CSS 
 
 ---
 
